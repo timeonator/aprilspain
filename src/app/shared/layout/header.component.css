@@ -1,0 +1,26 @@
+
+#page_header {
+	height: 60px;
+	background: url('../../../assets/images/header_background.gif') repeat-x 0px 0px;
+	overflow: hidden;
+}
+
+#page_header h1 {
+	width: 280px;
+	height: 60px;
+	background: url('../../../assets/images/website_name.png') no-repeat 42px 12px;
+	float: left;
+}
+
+#page_header h3 {
+	width: 210px;
+	height: 60px;
+	background: url('../../../assets/images/header_welcome.png') no-repeat 60px 12px;
+	float: left;
+}
+#page_header img {
+	margin-top: 10px;
+}
+#page_header h3, #page_header h1 {
+  vertical-align: middle;
+}
